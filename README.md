@@ -1,4 +1,6 @@
-<h1 align="center">Charnpreet Singh</h1>
+<h1 align="center">Welcome</h1>
+# Hi I'm Charnpreet 👋
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="charn89"><a class="LI-    simple-link" href='https://au.linkedin.com/in/charn89?trk=profile-badge'>Charnpreet Singh</a></div>
 
 <p align="center">
   <a href="#about-me">About Me</a> •
